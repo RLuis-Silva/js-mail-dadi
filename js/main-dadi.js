@@ -13,18 +13,18 @@ console.log("Ai lancia: ", numRandomAI);
 
 if(numRandomAI > numRandomPlayer){
     //console.log("Hai perso!");
-    risultatoAI = "AI lancia: " + numRandomAI;
-    risultatoGiocatore = "Giocatore lancia:" + numRandomPlayer;
+    risultatoAI = "Gli Dei lanciano : " + numRandomAI;
+    risultatoGiocatore = "Giocatore lancia :" + numRandomPlayer;
     output = "Hai perso, gli Dei non ti amano!";
 }else if(numRandomAI < numRandomPlayer){
     //console.log("Hai vinto!");
-    risultatoAI = "AI lancia: " + numRandomAI;
-    risultatoGiocatore = "Giocatore lancia:" + numRandomPlayer;
+    risultatoAI = "Gli Dei lanciano : " + numRandomAI;
+    risultatoGiocatore = "Giocatore lancia :" + numRandomPlayer;
     output = "Hai Vinto, sei baciato dalla fortuna!"
 }else{
     //console.log("Pareggio, aaah per Gli Dei!");
-    risultatoAI = "AI lancia: " + numRandomAI;
-    risultatoGiocatore = "Giocatore lancia:" + numRandomPlayer;
+    risultatoAI = "Gli Dei lanciano : " + numRandomAI;
+    risultatoGiocatore = "Giocatore lancia :" + numRandomPlayer;
     output = "Pareggio, aaah per Gli Dei!";
 }
 
