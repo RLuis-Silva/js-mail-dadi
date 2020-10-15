@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+    color: white;
+   
+}
+
+.dadi{
+    width: 500px;
+    height: 300px;
+    background-color: orange;
+    background-image: url(./img/dadi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+}
+
+.img{
+    margin-top: 20px;
+}
+
+/* .img img{
+    width: 300px;
+} */

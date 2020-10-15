@@ -2,7 +2,7 @@
 /* primo esercizio  */
 
 
-var listaEmailAdmin = ["pippo2@gmail.com", "danieleC3@gmail.com", "marco@gmail.com"];
+var listaEmailAdmin = ["pippo2@gmail.com", "danieleC3@gmail.com", "marco@gmail.com", "pincoAdmin@gmail.com"];
 var emailUtente;
 var emailValida = false;
 
